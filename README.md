@@ -1,1 +1,1 @@
-# ECE588
+Parallel-Renderer-Using-CUDA/Project_Report.pdf
